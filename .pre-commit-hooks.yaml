@@ -1,0 +1,6 @@
+- id: test
+  name: cargo test
+  entry: cargo test
+  language: rust
+  pass_filenames: false
+  description: 'Runs cargo test command on the repository'
